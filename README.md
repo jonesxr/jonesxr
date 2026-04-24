@@ -1,4 +1,4 @@
-# Moikka! Olen Jouni 👋
+# Moro! Olen Jouni 👋
 
 Olen sulautettujen järjestelmien ja elektroniikan opiskelija @TAMK. Rakentelen mielelläni älykkäitä laitteita, mikrokontrollereita ja erilaisia IoT-ratkaisuja.
 
